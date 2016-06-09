@@ -3,5 +3,7 @@
 *.bin
 *.elf
 *.map
+*.a
 core
 tags
+xdemo
