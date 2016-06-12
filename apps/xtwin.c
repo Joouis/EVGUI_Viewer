@@ -55,7 +55,7 @@ main (void)
     twin_demospline_start (x11->screen, "Demo Spline", 20, 20, 400, 400);
 #endif
 #if 1
-	twin_svg_start (x11->screen, "Demo SVG", 0, 0, 1000, 1000, 1.0);
+	twin_svg_start (x11->screen, "Demo SVG", 0, 0, 1000, 1000);
 #endif
 
     twin_dispatch ();
